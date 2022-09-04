@@ -1,11 +1,18 @@
-@media only screen and (-webkit-min-device-pixel-ratio: 2.75) and (device-width: 2340px) and (device-height: 1080px) and (orientation: landscape) {
+@media only screen and (-webkit-min-device-pixel-ratio: 2.75) and (-webkit-device-height: 2340px) and (-webkit-device-width: 1080) {
 
   .photo-body {
     background: pink;
     zoom: 2;
   }
 
- @media screen and (max-width: 767px) {
+  .w-container {
+    max-width: none;
+  }
+
+  .photo-nav-menu {
+    display: none;
+  }
+
   h1 {
     font-size: 48px;
   }
