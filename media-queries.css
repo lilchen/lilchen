@@ -1,9 +1,10 @@
-@media screen and (-webkit-device-pixel-ratio: 2.7)
+@media screen and (-webkit-device-pixel-ratio: 2.7) and (orientation: landscape)
 
 { 
 
   .photo-body {
     background: #eeeeee;
+    zoom:  2;
   }
 
   .w-container {
