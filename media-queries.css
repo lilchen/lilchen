@@ -1,4 +1,4 @@
-@media only screen and (-webkit-min-device-pixel-ratio: 2.75) and (-webkit-device-height: 2340px) and (-webkit-device-width: 1080) {
+@media only screen and (-webkit-min-device-pixel-ratio: 2.75) and (orientation: landscape) {
 
   .photo-body {
     background: pink;
