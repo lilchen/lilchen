@@ -4,6 +4,7 @@
     background: red;
   }
 
+ @media screen and (max-width: 767px) {
   h1 {
     font-size: 48px;
   }
@@ -1232,6 +1233,7 @@
   }
 }
 
+
 #w-node-_0dc64f45-4fec-8c8a-55e7-6b7b013e2869-b1ee8871 {
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
@@ -1242,6 +1244,7 @@
   -ms-grid-row: span 1;
   grid-row-start: span 1;
 }
+
 
 #w-node-_719838ba-22b0-7655-a220-e6679414f5f5-6b695671 {
   -ms-grid-column: span 1;
