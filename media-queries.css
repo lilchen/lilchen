@@ -9,10 +9,6 @@
     max-width: none;
   }
 
-  .photo-nav-menu {
-    display: none;
-  }
-
   h1 {
     font-size: 48px;
   }
@@ -284,7 +280,7 @@
 
   .photo-img {
     width: auto;
-    max-height: 90vh;
+    max-height: 70vh;
     max-width: 100vw;
     min-height: 0px;
     min-width: 0px;
@@ -534,6 +530,7 @@
   }
 
   .photo-nav-menu {
+    display:  none;
     overflow: auto;
     padding-top: 10px;
     padding-bottom: 10px;
