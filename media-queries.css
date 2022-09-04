@@ -1,4 +1,4 @@
-@media screen and (-webkit-device-pixel-ratio: 2.7) and (orientation: landscape)
+@media screen and (-webkit-min-device-pixel-ratio: 2.7) and (orientation: landscape)
 
 { 
 
