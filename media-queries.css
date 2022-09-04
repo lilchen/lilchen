@@ -1,7 +1,8 @@
-@media only screen and (-webkit-min-device-pixel-ratio: 2.75) {
+@media only screen and (-webkit-min-device-pixel-ratio: 2.75) and (device-width: 2340px) and (device-height: 1080px) and (orientation: landscape) {
 
   .photo-body {
     background: pink;
+    zoom: 2;
   }
 
  @media screen and (max-width: 767px) {
