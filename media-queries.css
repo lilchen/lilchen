@@ -1,4 +1,13 @@
-@media only screen and (-webkit-min-device-pixel-ratio: 2.75) {
+@media
+  only screen and (-webkit-min-device-pixel-ratio: 2.75),
+  only screen and (   min--moz-device-pixel-ratio: 2.75),
+  only screen and (     -o-min-device-pixel-ratio: 2.75/1),
+  only screen and (        min-device-pixel-ratio: 2.75),
+  only screen and (                min-resolution: 432dpi),
+  only screen and (                min-resolution: 2.75dppx),
+  only screen and (min-width: 393px),
+  only screen and (max-width: 767px)
+{ 
 
   .photo-body {
     background: paleturquoise;
