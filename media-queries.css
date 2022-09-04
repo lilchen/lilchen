@@ -2,8 +2,11 @@
 { 
 
   .photo-body {
-    background: #eeeeee;
-    zoom:  1.5;
+    background: pink;
+  }
+
+  .photo-img {
+    zoom:  2;
   }
 
   .w-container {
